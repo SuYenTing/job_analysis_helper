@@ -1,3 +1,5 @@
 secretFile.json
-/.idea/
-*/__pycache__
+.idea/
+__pycache__/
+*.py[cod]
+*$py.class
