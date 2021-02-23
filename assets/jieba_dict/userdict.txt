@@ -1,0 +1,58 @@
+﻿資料分析
+數據分析
+資料探勘
+資料倉儲
+巨量資料工程師
+Big Data
+python
+SQL
+關聯式資料庫
+MySQL
+Oracle
+monogodb
+hadoop
+hive
+Hbase
+spark
+aws
+gcp
+azure
+cloud service
+cloud server
+cloud
+雲服務
+雲端服務
+雲端運算
+Artificial intelligence
+人工智慧
+Machine learning
+機器學習
+Deep learning
+深度學習
+Chatbot
+聊天機器人
+影像辨識
+圖形辨識
+圖片辨識
+臉孔辨識
+人臉辨識
+Tensorflow
+Keras
+Python
+R程式
+R語言
+CNN
+RNN
+ETL
+ELT
+ELK
+NoSQL
+No SQL
+AI
+java
+R
+雲端
+Cloud computing
+軟體開發
+Data Mining
+Machine Learning
