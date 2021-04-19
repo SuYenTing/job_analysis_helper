@@ -6,8 +6,6 @@
 
 使用者輸入搜尋工作的關鍵字後，系統會至104人力銀行網站下載搜尋的工作結果，並進行簡單的職缺探索式分析。
 
-[[網站Demo請點此]](http://18.219.72.96:8000/)
-
 [[專案說明文章請點此]](https://suyenting.github.io/post/dash-job-analysis-helper/)
 
 ![](https://github.com/SuYenTing/job_analysis_helper/blob/main/demo/%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2%E7%A4%BA%E6%84%8F-%E8%81%B7%E7%BC%BA%E5%88%86%E6%9E%901.png)
